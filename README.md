@@ -78,5 +78,11 @@ PUT /updatenote/:id – Update a note by ID
 
 DELETE /deletenote/:id – Delete a note by ID
 
+🌍 Live Deployment
+The backend server is live and accessible at:
+🔗 https://notenest-backend-mgaj.onrender.com
+
+You can directly connect your frontend to this API endpoint.
+
 🔗 Frontend
 Check out the frontend repo here: https://github.com/amansharma6664/NoteNest_Frontend
